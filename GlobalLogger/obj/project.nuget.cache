@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLmE366Lh1Ixn1AUGenPZOxsZ3zCFXx8doAOrYK2fWdXenPRylrUkKFJDo8sRjhv5eVfQ6OgJpt2Glo626wXWA==",
+  "dgSpecHash": "Ga6V6AuWMHQe4OdSy9H6uieFi5XPLj4c4FJu7pITZnyLpbE1oPxuJMcpcMbcWGOtKtfKUKiOoB0j8ncSar7Wvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\37544\\source\\repos\\GlobalLoger\\GlobalLogger\\GlobalLogger.csproj",
+  "projectFilePath": "c:\\Users\\37544\\source\\repos\\GlobalLoger\\GlobalLogger\\GlobalLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\37544\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\37544\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",
